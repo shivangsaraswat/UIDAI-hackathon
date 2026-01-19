@@ -24,3 +24,14 @@ This project focuses on the programmatic extraction, cleaning, and visualization
 - `aadhaar_analysis.ipynb`: The main analysis notebook.
 - `generate_notebook.py`: Source generation script for the notebook structure.
 - `data/`: Extracted CSV data (ignored by git).
+
+### Generated Visualizations
+
+#### Age Distribution Pie Chart
+![Age Distribution Pie Chart](age_distribution_pie.png)
+
+#### Age Group Updates Over Time
+![Age Group Updates](age_group_updates.png)
+
+#### Time Series Analysis
+![Time Series](time_series.png)
